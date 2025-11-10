@@ -1,9 +1,3 @@
-Claro. Aqui está o código completo com a correção aplicada na keyword Gerar 25 CEPs de Manaus.
-
-A única alteração foi inverter a ordem dos comandos Wait Until Element Is Visible e Scroll Element Into View dentro do loop, como discutimos.
-
-Snippet de código
-
 *** Settings ***
 Library    SeleniumLibrary
 Library    Collections
