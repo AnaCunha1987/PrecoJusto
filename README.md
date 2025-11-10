@@ -1,0 +1,2 @@
+# PrecoJusto
+Desafio Tecnico QA
